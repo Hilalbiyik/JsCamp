@@ -7,7 +7,7 @@ let dolarDun = 9.20
 console.log(dolarDun)
 const euroDun = 11.2
 console.log(euroDun)
-//array
+//arrayler
 //camelCasing
 //PascalCasing"
 let konutKredileri =["Konut Kredisi","Emlak Konut Kredisi","Kamu Konut Kredisi","Özel Konut Kredisi"]
